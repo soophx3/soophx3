@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning french, greek mythology, possibly candlemaking?
 - 🌱 I’m currently learning french
 - 📫 How to reach me 
-- Instagram: sophietomasi; tiktok: soophx3; Tumblr: poppypuppie_x3
+- Instagram: sophietomasi; tiktok: soophx3; Tumblr: poppypuppie
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: natural blonde, with a redhead heart
 
