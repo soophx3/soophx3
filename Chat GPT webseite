@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Sophie – Buchhalterin mit Serienherz</title>
+  <style>
+    body {
+      background-color: #fefae0;
+      color: #2f3e34;
+      font-family: 'Courier New', Courier, monospace;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.6;
+    }
+
+    h1, h2 {
+      color: #588157;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 0.2em;
+    }
+
+    h2 {
+      margin-top: 2em;
+      font-size: 1.8em;
+      border-bottom: 2px dashed #a3b18a;
+      display: inline-block;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 0.5em;
+    }
+
+    .highlight {
+      background-color: #d8f3dc;
+      padding: 4px 8px;
+      border-radius: 4px;
+    }
+
+    .socials {
+      margin-top: 2em;
+    }
+
+    .socials a {
+      display: inline-block;
+      margin-right: 12px;
+      text-decoration: none;
+      color: #3a5a40;
+      background-color: #d8f3dc;
+      padding: 6px 10px;
+      border-radius: 5px;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+
+    .socials a:hover {
+      background-color: #b7e4c7;
+    }
+
+    footer {
+      margin-top: 3em;
+      font-size: 0.9em;
+      color: #6c757d;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hi, ich bin Sophie</h1>
+  <p>Manchmal Ordnung, manchmal Chaos. Tagsüber Buchhalterin, abends Serienjunkie, und irgendwo dazwischen träum ich von einem Oberschenkel-Tattoo und einem Hund namens „Drama“. Willkommen auf meiner kleinen Ecke des Internets!</p>
+
+  <h2>Random Facts über mich</h2>
+  <ul>
+    <li>Ich hab kupferrote Haare und einen Brigitte-Bardot-Pony – vintage Vibes mit moderner Energie.</li>
+    <li>Ich bin Serienfan durch und durch – "Grimm", "Wild Cards", "The Rookie" & Co. haben mein Herz.</li>
+    <li>Ich liebe französische Sprache, lerne sie gerade und spreche manchmal mit Kolleg*innen Französisch – oder tue zumindest so.</li>
+    <li>Ich bin Agnostikerin, aber finde Hexen-Ästhetik und *Practical Magic*-Vibes mega.</li>
+    <li>Meine Lieblingshunderassen reichen von Corgis über Kromfohrländer bis zu Dänischen Doggen – groß, klein, aber bitte kein Schnauzer.</li>
+  </ul>
+
+  <h2>Meine liebsten Dinge</h2>
+  <ul>
+    <li><span class="highlight">Serie:</span> *Wild Cards* – ich shippe sie so hart, es tut schon weh.</li>
+    <li><span class="highlight">Buch:</span> *The Trials of Apollo* – because chaotic bisexual energy is life.</li>
+    <li><span class="highlight">Mythologie:</span> Griechisch. Dionysos ist der beste, Hades & Persephone kriegen mein Herz.</li>
+    <li><span class="highlight">Tattoo-Wunsch:</span> Ein Ikarus-Motiv, bei dem er rückwärts fällt. Weil Abstürze auch poetisch sein können.</li>
+    <li><span class="highlight">Snack: vegane Nougatschokolade oder Brot mit Dip</span> </li>
+  </ul>
+
+  <div class="socials">
+    <h2>Finde mich auch hier:</h2>
+    <a href="https://instagram.com/sophietomasi" target="_blank">Instagram</a>
+    <a href="https://tiktok.com/@soophx3" target="_blank">TikTok</a>
+    <a href="https://poppypuppie.tumblr.com" target="_blank">Tumblr</a>
+  </div>
+
+  <footer>
+    Webseite powered by Matcha Latte, Seriennächten und der gelegentlichen Existenzkrise.  
+    <br>Letztes Update: 2025.
+  </footer>
+</body>
+</html>
